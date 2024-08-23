@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# Ellie Noh's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## CS193 Related Stuff
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is where I put anything remotely related to this class (and yes, this includes Homework 0, you're welcome graders).
 
-### Markdown
+### My favorite CS193 things
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- The people (we unite as nerds, leave as nerds)
+- The fact that PSOs are 100% optional and online
+- The guides provided to programming resources are very useful
+- We code. I like to code.
 
-```markdown
-Syntax highlighted code block
+## About Me
 
-# Header 1
-## Header 2
-### Header 3
+Forget the class, this is MY page, and this part isn't getting graded so it's my time now.
 
-- Bulleted
-- List
+### Who am I?
 
-1. Numbered
-2. List
+My name is Ellie Noh, I'm currently a freshman majoring in Computer Science at Purdue University. I also plan to minor in theater! When I'm not working or taking a well-deserved nap you can find me huddled up in my room playing video games, swimming, or singing and acting. I'm Korean-American and have lived in China, Singapore, and South Korea as well. 
 
-**Bold** and _Italic_ and `Code` text
+### My List of Favorites
 
-[Link](url) and ![Image](src)
-```
+**Foods:**
+- Ramen
+- Matcha Bubble Milk Tea
+- Sichuan Hot Pot
+- Yangnyeom Gejang (Spicy Marinated Crabs)
+- Seaweed Soup
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Video Games:**
+- Hades (and Hades 2!)
+- Persona 3 Reload
+- Octopath Traveller 2 (maybe I'll try the first one sometime)
+- Omori
+- Final Fantasy games (6, 7, 10, 15)
+- Star Wars Fallen Order and Survivor
+- Void Stranger
+- ZZZ and HSR are rising in my ranks
 
-### Jekyll Themes
+**Movie:** Scott Pilgrim VS The World
+**Book:** Red Queen by Victoria Aveyard
+**Color:** Pink and Green (preferably in a palette together)
+**Song RN:** Memories of You from P3R
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Other things I do
 
-### Support or Contact
+As you could probably already tell, video games take up a huge part of my life, mostly story-based ones. The reason why I first wanted to learn how to code was so that I could make a video game and tell my own stories as well.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I used to competitively swim for about 11 years. It's still my favorite sport, and is the healthiest possible sport you can do. I will die on this hill, mark my words.
+
+Singing is also simply a part of me: in choirs, theater, solo shows, or just on my own in the shower. I love singing.
+
+At the same level, I have a great passion for acting and performing arts. In high school I worked on shows such as Guys and Dolls, the Addams Family, A Midsummer's Night Dream, and many more. I also did improv a lot as well. Outside of the stage, I also pursue voice acting online as a hobby, and it's one of the most fun activities ever.
